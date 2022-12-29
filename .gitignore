@@ -1,0 +1,16 @@
+# Log file
+*.log
+log/
+
+# out
+**/out/
+
+# Mac
+.DS_Store
+
+# cache
+*.tmp
+
+# File
+*.zip
+*.tar.gz
