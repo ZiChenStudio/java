@@ -1,0 +1,14 @@
+{
+    "files.encoding":"gbk",
+    "editor.tabSize": 4,
+    "terminal.integrated.shellArgs.windows": [
+        "-NoExit",
+        "/c",
+        "chcp 65001"
+    ],
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.cursorBlinking": true,
+        "code-runner.executorMap": {
+        "java": "javac -encoding utf-8 $fileName.java"
+    }
+}
